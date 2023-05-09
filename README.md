@@ -1,7 +1,7 @@
 # heatmap
 this is three page static html for fire data in syria May to June 2020, 2021, 2022
 for more information in Arabic : https://syriainfo.substack.com/p/4
-for more information in English: on Medium later
+for more information in English: https://medium.com/@Syriainfo/monitoring-fires-in-syria-during-the-harvest-session-using-nasas-firms-and-telegram-bot-540bf571ac54
 
 
 this map peoduced on Google Colab using Folium and OpenStreetMap.
